@@ -1,5 +1,3 @@
 .vs
 /Debug/
-/.xmake
-/build
-/Hardware
+/Hardware/
